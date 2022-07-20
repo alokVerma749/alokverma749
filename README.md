@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/alokVerma749/asignmentSem3/blob/master/Alok%20kumar%20verma.gif" alt="coding" width="1050" height ="350" />
+<img align="center" src="https://github.com/alokVerma749/asignmentSem3/blob/master/Alok%20kumar%20verma.gif" alt="coding" width="900" height ="350" />
 <h1 align="center">Hi 👋, I'm Alok Kumar Verma</h1>
 <p align="center" display="block"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=2d7e5e&vCenter=true&center=true&width=460&lines=full-stack+web+developer" </p> 
 <h3 align="center"></h3>
