@@ -49,7 +49,7 @@
 
 ### 💻 My Github Metrics :
 
-<img align="right" width="300" height="300" src="https://gist.githubusercontent.com/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif"></a>
+<img align="right" width="300" height="300" src="https://github.com/alokVerma749/Images/blob/master/hello.gif"></a>
 <br>
 ![GitHub metrics](https://metrics.lecoq.io/alokVerma749)  
 
