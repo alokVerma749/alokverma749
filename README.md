@@ -15,7 +15,7 @@
 
 - 💬  I would love to talk about **open source and accessibility.**
 
-- 👨‍💻 My portfolio is available at https://alokverma749.github.io
+- 👨‍💻 My portfolio is available at [https://alokverma749.github.io](https://alokverma.vercel.app/)
 
 - 📫 How to reach me **alokverma749@gmail.com**
 
